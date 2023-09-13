@@ -1,5 +1,5 @@
 # ASIX MP03 - Programació Bàsica
-## UF1 - Prograamció Estructurada
+## UF1 - Programació Estructurada
 
 * *Llista 1*: Dades i Expressions
 

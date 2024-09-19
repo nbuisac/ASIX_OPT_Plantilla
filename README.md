@@ -1,10 +1,8 @@
-# ASIX MP03 - Programació Bàsica
-## UF1 - Programació Estructurada
+# ASIX OPT - Mòdul optatiu
+## Programació en Python
 
-* *Llista 1*: Dades i Expressions
+* NF1: Introducció a la programació en Python 	40hores 	Setmana 1 	Setmana 10
 
-* *Llista 2*: Assignació i Composició Seqüencial
+* NF2: Funcions i Mètodes 	32 hores 	Setmana 11 	Setmana 18
 
-* *Llista 3*: Alternativa Simple i Composta
-
-* *Llista 4*: Iteratives
+* NF3: Tractament de fitxers  27 hores 	Setmana 19 	Setmana 25
